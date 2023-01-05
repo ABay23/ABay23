@@ -3,8 +3,7 @@
 - 👀 I’m interested in continue my carreer as a developer.
 - 🌱 I’m currently learning Javascript and React.
 - 💞️ I’m looking to collaborate on multiple projects, with front end or full stack needs.
-- 📫 How to reach me:
--  my email is alejandrobay23@gmail.com
+- 📫 contact info - email: alejandrobay23@gmail.com
 
 <!---
 ABay23/ABay23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
