@@ -1,7 +1,7 @@
 
  I’m Alejandro
 - I’m interested in continuing my career as a developer.
-- Currently working with Next.js / TypeScript / Python  and the MERN stack.
+- Currently working with Next.js / TypeScript / Python /Java and the MERN stack.
 - I’m looking to collaborate on multiple projects, with frontend or backend needs.
 - Contact info - email: alejandrobay23@gmail.com
 
