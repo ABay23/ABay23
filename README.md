@@ -5,8 +5,6 @@
 - I’m looking to collaborate on multiple projects, with frontend or backend needs.
 - Contact info - email: alejandrobay23@gmail.com
 
-- [![@abay23's Holopin board](https://holopin.io/api/user/board?user=abay23)](https://holopin.io/@abay23) 
-
 <!---
 ABay23/ABay23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
