@@ -1,4 +1,4 @@
-# Hey, I'm Alejandro 👋
+# Hey, I'm Alejandro
 
 **Founder of [SquidRoster](https://squidroster.com)** — scheduling software that turns shift management into a team sport for hourly workers.
 
